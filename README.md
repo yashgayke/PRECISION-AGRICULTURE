@@ -50,13 +50,11 @@ Pest Detection & Pesticide Recommendation
 ## Conclusion
 India’s farmers are hard at work. They help to feed a nation whose population is nearly 1.4 billion. However their productivity is threatened by some natural factors that can ruin their crops and their livelihoods. So, the solution will benefit farmers to maximize productivity in agriculture, reduce soil degradation in cultivated fields, and have informed advice on organic fertilizers/ other fertilizers and also know about the right crop by considering various attributes. This would provide a comprehensive prediction and hence benefit both farmers and environment. Not only this, but pest control would also be major issue to be solved via this project.
 
-## How to run on your local host?
-## Prerequisite: Download all files from GDrive Link
+### How to run on your local host?
+### Prerequisite: Download all files from GDrive Link
 
-## Download PyCharm
-## Create new environment using command --> conda create -n env_name python==3.7.0
-## Activate environment using command --> conda activate env_name
-## Install requirements by typing (cd ProjectFolder) --> pip install -r requirements.txt
-## Now run app.py by writing command --> python app.py
-
-## PEST DATASET: https://www.kaggle.com/simranvolunesia/pest-dataset
+### Download PyCharm
+### Create new environment using command --> conda create -n env_name python==3.7.0
+### Activate environment using command --> conda activate env_name
+### Install requirements by typing (cd ProjectFolder) --> pip install -r requirements.txt
+### Now run app.py by writing command --> python app.py
